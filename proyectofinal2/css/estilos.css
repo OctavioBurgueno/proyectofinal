@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#imageInput{
+    color:black;
+}
+
+@media (max-width: 991px) {
+    .fila{
+      display: flex;
+      flex-direction: column;
+    }
+    .prod{
+        width: 100%;
+        height: auto;
+    }
+   
+}
